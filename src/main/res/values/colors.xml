@@ -1,0 +1,19 @@
+<resources>
+    <!-- Standard Android colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+
+    <!-- Custom purple palette -->
+    <color name="purple_light_lavender">#F3E5F5</color>    <!-- Light lavender background -->
+    <color name="purple_medium">#9C27B0</color>             <!-- Medium purple for description and Items heading -->
+    <color name="purple_deep">#6A1B9A</color>               <!-- Darker purple for Cart heading -->
+    <color name="purple_accent">#AB47BC</color>             <!-- Accent purple for buttons, prices -->
+
+    <!-- White for backgrounds -->
+    <color name="white">#FFFFFF</color>  <!-- For white backgrounds -->
+
+</resources>

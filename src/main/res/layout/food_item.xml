@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/purple_light_lavender"
+    android:layout_marginBottom="8dp"
+    android:elevation="2dp">
+
+    <TextView
+        android:id="@+id/food_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Food Name"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/purple_deep" />
+
+    <TextView
+        android:id="@+id/food_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description here"
+        android:textSize="14sp"
+        android:textColor="@color/purple_medium" />
+
+    <TextView
+        android:id="@+id/food_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="$0.00"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        android:textColor="@color/purple_accent"
+        android:layout_marginTop="4dp" />
+</LinearLayout>
